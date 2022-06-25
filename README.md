@@ -2,9 +2,9 @@
 
 # Exploratory Data Analysis on US Accidents
 ## Dataset
-  •	This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2021.
-  •	This dataset has been collected in real-time, using multiple Traffic APIs. 
-  •	The size of the dataset is greater than 200MB having 28,45,342 rows and 47 columns.
+ 	 •	This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to Dec 2021.
+  	 •	This dataset has been collected in real-time, using multiple Traffic APIs. 
+  	 •	The size of the dataset is greater than 200MB having 28,45,342 rows and 47 columns.
 ## Languages and Libraries 
 		Python, Pandas, Matplotlib, Seaborn	   
 ## Insights
